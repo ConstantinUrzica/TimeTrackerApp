@@ -11,7 +11,7 @@ import (
 
 func main() {
 	time := time.Now()
-
+	//Testing some changesgi
 	fmt.Println("Someday we're gonna have a time tracker on our hands!")
 	fmt.Println("Current time object cotains this crap: ", time)
 	fmt.Println("Let's break it down...")
